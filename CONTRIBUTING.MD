@@ -37,7 +37,7 @@ Open group that works in a community style (there is likely to be a core team, t
 * Hosting setup
 * How can several competing products all get a place on Demodam? (technical aspects of that)
 * Advise (not decide) on acceptance criteria of components from a technical point of view (ie definition of done)
-* **Members**: Ruben van der Linden (team lead), Joeri
+* **Members**: Ruben van der Linde (team lead), Joeri
 
 ### User centricity action team
 
