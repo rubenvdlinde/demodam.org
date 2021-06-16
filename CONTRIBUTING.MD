@@ -13,7 +13,7 @@ Raise an issue, submit a pull request, etc. Be bold! Check out the [issues label
 Feel free to blog, tweet, post about Demodam whenever you like! We're in this together. There's always stuff to do. Check out the [Communications board](https://github.com/demodam/demodam.org/projects/1) to see if there's anything you can help out with. Or add to it if you have a good idea.  
 
 ## Publish Common Ground components to Demodam
-Demodam is a showcase website for open source components. Please reach out to the Technical action team via Slack or Github if you want to publish your components on Demodam.
+Demodam is a showcase website for open source components. Please read the [organisation page](/Organizations.md) for the rules and apllication procces or reach out to the Technical action team via Slack or Github if you need support.
 
 ## Take part in an action team
 
